@@ -1,4 +1,7 @@
-# test coverage for  [stream-combiner2 (v1.1.1)](https://github.com/substack/stream-combiner2)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-combiner2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-combiner2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-combiner2.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-combiner2)
+# npmtest-stream-combiner2
+
+#### test coverage for  [stream-combiner2 (v1.1.1)](https://github.com/substack/stream-combiner2)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-combiner2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-combiner2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-combiner2.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-combiner2)
+
 #### This is a sequel to [stream-combiner](https://npmjs.org/package/stream-combiner) for streams3.
 
 [![NPM](https://nodei.co/npm/stream-combiner2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stream-combiner2)

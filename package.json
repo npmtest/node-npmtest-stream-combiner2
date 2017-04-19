@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [stream-combiner2 (v1.1.1)](https://github.com/substack/stream-combiner2) [![npm package](https://img.shields.io/npm/v/npmtest-stream-combiner2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-combiner2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-combiner2.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-combiner2)",
+    "description": "#### test coverage for  [stream-combiner2 (v1.1.1)](https://github.com/substack/stream-combiner2)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-combiner2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-combiner2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-combiner2.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-combiner2)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "stream-combiner2": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
